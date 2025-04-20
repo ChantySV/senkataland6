@@ -9656,3 +9656,88 @@ com.google.gson.JsonSyntaxException: Unknown item 'refinedstorage:quartz_enriche
 [20Apr2025 00:24:22.123] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [20Apr2025 00:24:22.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ has made the advancement [Knowledge of Death]
 [20Apr2025 00:24:22.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ has reached the goal [Here They Come]
+[20Apr2025 00:25:36.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:25:46.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:25:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vincent was shot by Dread Lich
+[20Apr2025 00:25:56.338] [Server thread/DEBUG] [tombstone/]: A new grave of the player Vincent was created at position [x:266, y:62, z:308, dim:minecraft:overworld]
+[20Apr2025 00:25:56.443] [Server thread/INFO] [tombstone/]: The player Vincent has successfully been saved
+[20Apr2025 00:25:58.223] [Server thread/DEBUG] [twilightforest/]: Player Vincent (d5b36370-e586-31c5-920c-940cdd0f7507) respawned and received items held in storage
+[20Apr2025 00:26:07.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[20Apr2025 00:26:26.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4147ms or 82 ticks behind
+[20Apr2025 00:27:05.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Apr2025 00:27:25.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ drowned
+[20Apr2025 00:27:25.129] [Server thread/DEBUG] [tombstone/]: A new grave of the player PablitZ was created at position [x:230, y:61, z:340, dim:minecraft:overworld]
+[20Apr2025 00:27:25.135] [Server thread/INFO] [tombstone/]: The player PablitZ has successfully been saved
+[20Apr2025 00:27:27.939] [Server thread/DEBUG] [twilightforest/]: Player PablitZ (1a717d30-057a-3a86-b7e3-ad1ed311e9e7) respawned and received items held in storage
+[20Apr2025 00:27:52.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vincent was slain by Dread Beast
+[20Apr2025 00:27:52.468] [Server thread/DEBUG] [tombstone/]: A new grave of the player Vincent was created at position [x:228, y:63, z:292, dim:minecraft:overworld]
+[20Apr2025 00:27:52.491] [Server thread/INFO] [tombstone/]: The player Vincent has successfully been saved
+[20Apr2025 00:27:54.434] [Server thread/DEBUG] [twilightforest/]: Player Vincent (d5b36370-e586-31c5-920c-940cdd0f7507) respawned and received items held in storage
+[20Apr2025 00:28:10.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 00:28:10.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 00:28:13.501] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/9227, l='ServerLevel[world]', x=217.50, y=56.00, z=178.50]
+[20Apr2025 00:31:39.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[20Apr2025 00:31:56.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2323ms or 46 ticks behind
+[20Apr2025 00:33:15.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 00:33:15.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 00:34:30.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3472ms or 69 ticks behind
+[20Apr2025 00:35:08.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:08.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:08.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:08.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:08.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:08.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:09.054] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:09.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:09.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:09.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:36.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:36.735] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:36.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:36.975] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:37.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:37.327] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:37.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:37.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:37.871] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:38.024] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:53.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:54.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:54.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:54.476] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:54.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:54.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:54.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:55.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:35:55.325] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:04.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:05.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:05.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:05.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:05.602] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:05.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:05.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:06.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:06.279] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:06.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:06.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:25.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ was slain by Sea Serpent
+[20Apr2025 00:36:25.453] [Server thread/DEBUG] [tombstone/]: A new grave of the player PablitZ was created at position [x:987, y:67, z:147, dim:minecraft:overworld]
+[20Apr2025 00:36:25.472] [Server thread/INFO] [tombstone/]: The player PablitZ has successfully been saved
+[20Apr2025 00:36:27.027] [Server thread/DEBUG] [twilightforest/]: Player PablitZ (1a717d30-057a-3a86-b7e3-ad1ed311e9e7) respawned and received items held in storage
+[20Apr2025 00:36:37.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:37.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:37.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:37.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:37.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:37.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 00:36:44.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vincent was slain by Sea Serpent
+[20Apr2025 00:36:44.401] [Server thread/DEBUG] [tombstone/]: A new grave of the player Vincent was created at position [x:1004, y:70, z:143, dim:minecraft:overworld]
+[20Apr2025 00:36:44.427] [Server thread/INFO] [tombstone/]: The player Vincent has successfully been saved
+[20Apr2025 00:36:46.185] [Server thread/DEBUG] [twilightforest/]: Player Vincent (d5b36370-e586-31c5-920c-940cdd0f7507) respawned and received items held in storage
+[20Apr2025 00:37:13.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PablitZ lost connection: Disconnected
+[20Apr2025 00:37:13.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ left the game
+[20Apr2025 00:37:15.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vincent lost connection: Disconnected
+[20Apr2025 00:37:15.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vincent left the game
+[20Apr2025 00:38:18.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 00:38:18.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

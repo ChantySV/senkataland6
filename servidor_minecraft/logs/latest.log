@@ -196,3 +196,24 @@
 [20Apr2025 00:24:03.701] [Server thread/INFO] [tombstone/]: The player PablitZ has successfully been saved
 [20Apr2025 00:24:22.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ has made the advancement [Knowledge of Death]
 [20Apr2025 00:24:22.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ has reached the goal [Here They Come]
+[20Apr2025 00:25:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vincent was shot by Dread Lich
+[20Apr2025 00:25:56.443] [Server thread/INFO] [tombstone/]: The player Vincent has successfully been saved
+[20Apr2025 00:26:07.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[20Apr2025 00:26:26.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4147ms or 82 ticks behind
+[20Apr2025 00:27:05.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Apr2025 00:27:25.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ drowned
+[20Apr2025 00:27:25.135] [Server thread/INFO] [tombstone/]: The player PablitZ has successfully been saved
+[20Apr2025 00:27:52.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vincent was slain by Dread Beast
+[20Apr2025 00:27:52.491] [Server thread/INFO] [tombstone/]: The player Vincent has successfully been saved
+[20Apr2025 00:28:13.501] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/9227, l='ServerLevel[world]', x=217.50, y=56.00, z=178.50]
+[20Apr2025 00:31:39.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[20Apr2025 00:31:56.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2323ms or 46 ticks behind
+[20Apr2025 00:34:30.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3472ms or 69 ticks behind
+[20Apr2025 00:36:25.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ was slain by Sea Serpent
+[20Apr2025 00:36:25.472] [Server thread/INFO] [tombstone/]: The player PablitZ has successfully been saved
+[20Apr2025 00:36:44.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vincent was slain by Sea Serpent
+[20Apr2025 00:36:44.427] [Server thread/INFO] [tombstone/]: The player Vincent has successfully been saved
+[20Apr2025 00:37:13.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PablitZ lost connection: Disconnected
+[20Apr2025 00:37:13.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ left the game
+[20Apr2025 00:37:15.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vincent lost connection: Disconnected
+[20Apr2025 00:37:15.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vincent left the game
