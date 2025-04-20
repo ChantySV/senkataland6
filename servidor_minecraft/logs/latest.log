@@ -217,3 +217,9 @@
 [20Apr2025 00:37:13.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PablitZ left the game
 [20Apr2025 00:37:15.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vincent lost connection: Disconnected
 [20Apr2025 00:37:15.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vincent left the game
+[20Apr2025 00:48:01.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChantySV[/127.42.49.160:33665] logged in with entity id 14515 at (6.657129760122258, 63.0, -24.729795182989584)
+[20Apr2025 00:48:01.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV joined the game
+[20Apr2025 00:48:01.409] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'ChantySV'.
+[20Apr2025 00:48:01.414] [Server thread/INFO] [Jade/]: Syncing config to ChantySV (062b6a07-89e7-316e-b29b-cbf946785e15)
+[20Apr2025 00:48:36.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChantySV: Set own game mode to Creative Mode]
+[20Apr2025 00:48:54.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChantySV has made the advancement [Mother of Dragons]

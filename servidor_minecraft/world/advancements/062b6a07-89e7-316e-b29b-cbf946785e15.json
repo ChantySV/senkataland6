@@ -81,21 +81,69 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/orcas_might": {
+  "biomeswevegone:biomeswevegone/root": {
     "criteria": {
-      "all_effects": "2025-04-20 00:04:45 -0400"
+      "tick": "2025-04-20 00:02:34 -0400"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-20 00:02:34 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-20 00:02:34 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-20 00:02:34 -0400"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/essence": {
+    "criteria": {
+      "requirement_1": "2025-04-20 00:02:34 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-20 00:02:34 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-20 00:02:34 -0400"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-04-20 00:02:34 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-20 00:02:35 -0400"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/root": {
+    "criteria": {
+      "auto": "2025-04-20 00:02:35 -0400"
     },
     "done": true
   },
   "biomeswevegone:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-04-20 00:04:02 -0400"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/root": {
-    "criteria": {
-      "tick": "2025-04-20 00:02:34 -0400"
     },
     "done": true
   },
@@ -123,12 +171,6 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-04-20 00:02:34 -0400"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-04-20 00:04:02 -0400"
@@ -144,18 +186,6 @@
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-04-20 00:04:02 -0400"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2025-04-20 00:02:34 -0400"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-04-20 00:02:34 -0400"
     },
     "done": true
   },
@@ -225,12 +255,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-04-20 00:02:35 -0400"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-04-20 00:04:02 -0400"
@@ -285,12 +309,6 @@
     },
     "done": true
   },
-  "corail_dt:tutorial/root": {
-    "criteria": {
-      "auto": "2025-04-20 00:02:35 -0400"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
       "in_water": "2025-04-20 00:04:02 -0400"
@@ -306,18 +324,6 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-04-20 00:04:02 -0400"
-    },
-    "done": true
-  },
-  "corail_dt:recipes/essence": {
-    "criteria": {
-      "requirement_1": "2025-04-20 00:02:34 -0400"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-04-20 00:02:34 -0400"
     },
     "done": true
   },
@@ -381,12 +387,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-04-20 00:02:34 -0400"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-04-20 00:04:02 -0400"
@@ -405,12 +405,6 @@
     },
     "done": true
   },
-  "ironfurnaces:coal": {
-    "criteria": {
-      "rainbowcoal": "2025-04-20 00:02:34 -0400"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/ironwood_boat": {
     "criteria": {
       "in_water": "2025-04-20 00:04:02 -0400"
@@ -420,6 +414,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-04-20 00:04:02 -0400"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-20 00:04:45 -0400"
     },
     "done": true
   },
