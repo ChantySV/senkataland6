@@ -423,5 +423,23 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-04-20 00:58:15 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-04-20 00:48:54 -0400"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-04-20 00:53:14 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
